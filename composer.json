@@ -1,0 +1,17 @@
+{
+    "name": "ws-develop/utm-parameters",
+    "autoload": {
+        "psr-4": {
+            "AndrewWagih\\UtmParameters\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Andrew Wagih",
+            "email": "eng.andrewwagih@gmail.com"
+        }
+    ],
+    "require": {
+        "guzzlehttp/guzzle": "^7.2"
+    }
+}
