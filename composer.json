@@ -2,7 +2,7 @@
     "name": "ws-develop/utm-parameters",
     "autoload": {
         "psr-4": {
-            "ws-develop\UtmParameters\\": "src/"
+            "ws\UtmParameters\\": "src/"
         }
     },
     "authors": [
